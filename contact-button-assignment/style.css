@@ -1,0 +1,59 @@
+/*
+MY COLOR PALETTE
+rich mahogany - #3C1518
+dark garnet - #69140E
+rust brown - #A44200
+bronze - #D58936
+canary yellow - #FFFB46
+*/
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+button {
+    background-color: red;
+    color: white;
+    font-family: montserrat;
+    width: 200px;
+    margin-top: 32px;
+    padding: 10px;
+    border: none;
+    border-radius: 18px;
+}
+
+button:hover {
+    background-color: indianred;
+}
+
+h1 {
+    color: #d58936;
+    font-family: open sans;
+    font-size: 50px;
+    margin-bottom: 2px;
+    margin-top: 35px;
+}
+
+h2 {
+    color: #a44200;
+    font-family: open sans;
+    font-size: 25px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.open-sans-regular {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+.montserrat-regular {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
