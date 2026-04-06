@@ -1,0 +1,28 @@
+#headshot {
+    width: 300px;
+    margin-left: auto
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#contact {
+    font-weight: bold;
+    width: 20px;
+}
+
+a:hover {
+    background-color: red;
+}
+
+#info {
+    width: 500px;
+    margin: auto;
+}
+
+@media screen and (min-width: 576px) {
+  body {
+    background-color: lightgreen;
+  }
+}
