@@ -31,6 +31,39 @@ img {
     text-decoration: none;
 }
 
+#aboutme {
+    padding-top: 150px;
+    padding-bottom: 20px;
+    font-family: Tenor Sans;
+    font-size: 45px
+}
+
+#aboutme-copy {
+    font-family: Tenor Sans;
+    font-size: 22px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+#line {
+    color: black;
+    background-color: black;
+    height: 3px
+}
+
+#myname {
+    margin-top: 75px;
+    margin-bottom: 30px;
+    font-family: Tenor Sans;
+    font-size: 65px
+}
+
+#mytitle {
+    font-family:
+    Tenor Sans;
+    margin-bottom: 180px
+}
+
 #experiencebutton {
     
 }
