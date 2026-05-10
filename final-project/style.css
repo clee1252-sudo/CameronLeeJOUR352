@@ -1,0 +1,134 @@
+@media screen {
+    #page-top {
+        background-color: darkslateblue;
+        font-family: "IBM Plex Sans", sans-serif;
+        color: white;
+    }
+
+    #page-body {
+        background-color: white;
+    }
+
+    #big-photo {
+        width: 100%;
+    }
+
+    .photo-caption {
+        font-family: "IBM Plex Sans", sans-serif;
+        color: white;
+        font-size: 14px;
+        font-weight: 200;
+        letter-spacing: 2px;
+        padding-top: 4px;
+        padding-left: 4px;
+    }
+
+    #headline {
+        padding-top: 20px;
+        font-weight: 600;
+    }
+
+    #subhead {
+        font-size: 28px;
+        font-weight: 250;
+    }
+
+    #byline {
+        font-size: 22px;
+        font-weight: 500;
+        padding-top: 14px;
+    }
+
+    #publish-date {
+        font-size: 18px;
+        font-weight: 200;
+        padding-bottom: 20px;
+    }
+
+    .body-text-etc {
+        font-family: "IBM Plex Sans", sans-serif;
+        padding-top: 30px;
+        font-size: 20px;
+    }
+
+    #disclaimer {
+        font-weight: 220;
+    }
+
+    .bradford-illustration {
+        width: 50%;
+        padding-top: 12px;
+    }
+
+    .section-title {
+        font-weight: 800;
+        padding-top: 24px;
+    }
+
+    .picture-block {
+        background-color: darkslateblue;
+        font-family: "IBM Plex Sans", sans-serif;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .side-caption {
+        color: white;
+        padding-bottom: 12px;
+    }
+
+    .pull-quote {
+        color: #fb080a;
+    }
+
+    #footer {
+        background-color: darkslateblue;
+        margin-top: 20px;
+    }
+
+    .fullwidth {
+        padding: 0px;
+    }
+
+    .color-pop {
+        color: #186143;
+        font-weight: 600;
+    }
+}
+
+@media (min-width: 576px) {
+    .body-text-etc {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    #publish-date {
+        padding-bottom: 15px;
+    }
+
+    .bradford-illustration {
+        width: 100%;
+    }
+
+    .side-caption {
+        font-size: 20px;
+        padding-top: 12px;
+    }
+}
+
+@media (min-width: 992px) {
+    .body-text-etc {
+        margin-left: 200px;
+        margin-right: 200px;
+    }
+
+    .side-caption {
+        font-size: 40px;
+        padding-right: 15px;
+    }
+
+    .picture-block {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+}
