@@ -79,6 +79,15 @@
 
     .pull-quote {
         color: #fb080a;
+        margin-top: 20px;
+    }
+
+    .big-quote {
+        font-size: 100px;
+        float: left;
+        padding-top: 70px;
+        padding-right: 20px;
+        padding-bottom: 50px;
     }
 
     #footer {
@@ -87,7 +96,7 @@
     }
 
     .fullwidth {
-        padding: 0px;
+        padding: 0;
     }
 
     .color-pop {
@@ -114,6 +123,16 @@
         font-size: 20px;
         padding-top: 12px;
     }
+
+    .pull-quote {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+
+    .big-quote {
+        padding-top: 50px;
+        padding-bottom: 40px;
+    }
 }
 
 @media (min-width: 992px) {
@@ -130,5 +149,17 @@
     .picture-block {
         margin-top: 30px;
         margin-bottom: 20px;
+    }
+
+    .pull-quote {
+        margin-top: 60px;
+        margin-bottom: 10px;
+        line-height: 100px;
+    }
+
+    .big-quote {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-right: 50px;
     }
 }
