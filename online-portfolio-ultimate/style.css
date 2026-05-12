@@ -1,0 +1,142 @@
+@media screen {
+    .tenor-sans-regular {
+        font-family: "Tenor Sans", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    #page-top {
+        font-family: "Tenor Sans", sans-serif;
+    }
+
+    #photo-name-title {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    #smokey-photo {
+        width: 100%;
+    }
+
+    #my-name {
+        font-size: 50px;
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+
+    #title {
+        margin-left: 10px;
+        margin-bottom: 30px;
+    }
+
+    #email-button {
+        background-color: black;
+        color: white;
+        text-decoration: none;
+        width: 300px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: 10px;
+        display: inline-block;
+        text-align: center;
+    }
+
+    #about-bio-exp {
+        background-color: orange;
+        margin-top: 50px;
+    }
+
+    #about-me {
+        margin-top: 10px;
+    }
+
+    #page-body {
+        font-family: "Tenor Sans", sans-serif;
+        background-color: orange;
+    }
+}
+
+@media (min-width: 576px) {
+}
+
+@media (min-width: 768px) {
+    #about-bio-exp {
+        margin-top: 0;
+    }
+
+    #my-name {
+        font-size: 40px;
+    }
+
+    #title {
+        font-size: 25px;
+    }
+}
+
+@media (min-width: 992px) {
+    #my-name {
+        font-size: 55px;
+        margin-top: 100px;
+        margin-left: 140px;
+    }
+
+    #title {
+        margin-left: 140px;
+        margin-top: 20px;
+        margin-bottom: 110px;
+    }
+
+    #email-button {
+        margin-left: 140px;
+        padding-left: 80px;
+        padding-right: 80px;
+        margin-bottom: 85px;
+    }
+
+    #about-bio-exp {
+        margin-top: 0;
+    }
+
+    #about-me {
+        font-size: 40px;
+        margin-left: 140px;
+        margin-top: 170px;
+    }
+
+    #line1 {
+        margin-left: 140px;
+        margin-right: 140px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    #bio {
+        margin-left: 140px;
+        margin-right: 140px;
+        font-size: 20px;
+    }
+
+    #exp-col {
+        padding: 0;
+        margin: 0;
+    }
+
+    #experience-heading {
+        font-size: 40px;
+        margin-left: 140px;
+        margin-top: 100px;
+    }
+
+    #line2 {
+        margin-left: 140px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
+    #exp-bio {
+        margin-left: 140px;
+        font-size: 20px;
+    }
+}
