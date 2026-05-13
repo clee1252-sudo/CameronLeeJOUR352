@@ -24,7 +24,7 @@
         margin-top: 10px;
     }
 
-    #title {
+    #title-head {
         margin-left: 10px;
         margin-bottom: 30px;
     }
@@ -52,7 +52,29 @@
         margin-top: 10px;
     }
 
-    #page-body {
+    .nav-button {
+        display: inline-block;
+        text-align: center;
+        text-decoration: none;
+        color: black;
+        border: solid;
+    }
+
+    #page-body-exp {
+        font-family: "Tenor Sans", sans-serif;
+        background-color: orange;
+    }
+
+    .white-space {
+        background-color: white;
+    }
+
+    #page-body-skills {
+        font-family: "Tenor Sans", sans-serif;
+        background-color: orange;
+    }
+
+    #page-body-edu {
         font-family: "Tenor Sans", sans-serif;
         background-color: orange;
     }
@@ -70,7 +92,7 @@
         font-size: 40px;
     }
 
-    #title {
+    #title-head {
         font-size: 25px;
     }
 }
@@ -82,7 +104,7 @@
         margin-left: 140px;
     }
 
-    #title {
+    #title-head {
         margin-left: 140px;
         margin-top: 20px;
         margin-bottom: 110px;
@@ -115,7 +137,31 @@
     #bio {
         margin-left: 140px;
         margin-right: 140px;
+        margin-bottom: 200px;
         font-size: 20px;
+    }
+
+    .nav-button {
+        font-size: 20px;
+        margin-left: 140px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    #exp-button {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    #skills-button {
+        padding-left: 97.5px;
+        padding-right: 97.5px;
+    }
+
+    #edu-button {
+        padding-left: 75.25px;
+        padding-right: 75.25px;
+        margin-top: 70px;
     }
 
     #exp-col {
@@ -133,10 +179,89 @@
         margin-left: 140px;
         margin-top: 40px;
         margin-bottom: 40px;
+        margin-right: 140px;
     }
 
     #exp-bio {
         margin-left: 140px;
         font-size: 20px;
+        margin-bottom: 70px;
+    }
+
+    .body-title {
+        margin-left: 140px;
+    }
+
+    .body-workplace {
+        margin-left: 140px;
+    }
+
+    .body-date-range {
+        margin-left: 140px;
+        margin-bottom: 25px;
+    }
+
+    .job-desc {
+        margin-left: 140px;
+        margin-bottom: 170px;
+    }
+
+    #skills-col {
+        padding: 0;
+        margin: 0;
+    }
+
+    #skills-heading {
+        font-size: 40px;
+        margin-left: 140px;
+        margin-top: 100px;
+    }
+
+    #line3 {
+        margin-left: 140px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-right: 140px;
+    }
+
+    #skills-bio {
+        margin-left: 140px;
+        font-size: 20px;
+        margin-bottom: 70px;
+    }
+
+    .skills-list {
+        font-size: 25px;
+        margin-left: 140px;
+        margin-bottom: 230px;
+    }
+
+    #edu-col {
+        padding: 0;
+        margin: 0;
+    }
+
+    #edu-heading {
+        font-size: 40px;
+        margin-left: 140px;
+        margin-top: 100px;
+    }
+
+    #line4 {
+        margin-left: 140px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        margin-right: 140px;
+    }
+
+    #edu-bio {
+        margin-left: 140px;
+        font-size: 20px;
+        margin-bottom: 70px;
+    }
+
+    .fullwidth {
+        padding: 0;
+        margin: 0;
     }
 }
