@@ -49,7 +49,7 @@
     }
 
     #about-me {
-        margin-top: 10px;
+        margin-top: 20px;
     }
 
     .nav-button {
@@ -58,11 +58,18 @@
         text-decoration: none;
         color: black;
         border: solid;
+        margin-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
     #page-body-exp {
         font-family: "Tenor Sans", sans-serif;
         background-color: orange;
+    }
+
+    #experience-heading {
+        margin-top: 20px;
     }
 
     .white-space {
@@ -74,9 +81,26 @@
         background-color: orange;
     }
 
+    #skills-heading {
+        margin-top: 20px;
+    }
+
     #page-body-edu {
         font-family: "Tenor Sans", sans-serif;
         background-color: orange;
+    }
+
+    #edu-heading {
+        margin-top: 20px;
+    }
+
+    #page-footer {
+        background-color: orange;
+        font-family: "Tenor Sans", sans-serif;
+    }
+
+    #copyright {
+        margin-top: 15px;
     }
 }
 
